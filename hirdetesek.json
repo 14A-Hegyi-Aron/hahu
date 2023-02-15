@@ -1,0 +1,95 @@
+[
+    {
+        "_id": 40,
+        "kategoria": 5,
+        "cim": "Férfi e-bike",
+        "evjarat": "2019",
+        "kmAllas": -1,
+        "szin": "Fekete",
+        "uzemanyag": "Elektromos",
+        "hengerurtartalom": -1,
+        "teljesitmenyLe": 0.335,
+        "serulesmentes": false,
+        "leiras": "Eladó egy jó állapotú férfi trekking e-bike Prophete. (számla elérhető)\n\n- Akár 25 km/h vezetési támogatás\n- max.hatótáv kb.100 km(vezetési stílustól függően)\n- Közepes méretű, jól olvasható és megvilágított LC kijelző\n- Akkumulátorról működtetett LED világítási rendszer\n- Motor: AEG 36 V,250 W,50 Nm támogatás 25 km/h-ig",
+        "hirdetesDatuma": "2023-02-14",
+        "arFt": 350000,
+        "kepek": [
+            "https://nitslaszlo.github.io/static/hahu/40a.jpg",
+            "https://nitslaszlo.github.io/static/hahu/40b.jpg",
+            "https://nitslaszlo.github.io/static/hahu/40c.jpg"
+        ]
+    },
+    {
+        "_id": 41,
+        "kategoria": 5,
+        "cim": "Trek Conduit E-bike kerékpár",
+        "evjarat": "2021",
+        "kmAllas": 4707,
+        "szin": "Fekete",
+        "uzemanyag": "Elektromos",
+        "hengerurtartalom": -1,
+        "teljesitmenyLe": 0.335,
+        "serulesmentes": true,
+        "leiras": "A kerékpár megkimélt állapotban van.\nElöl-hátul beépitett lámpák !\nVázméret : L\nVáltó: 1x10 Shimano Deore\nKerék: Bontrager Tubeless Ready Disc\nGumik: Bontrager H2 Hard-Case 700x35c\nFékek: Shimano M315 hydraulic disc\nHajtás : Shimano Steps, 44T\nMotor: Shimano Steps, 250 watt, 50 Nm",
+        "hirdetesDatuma": "2023-03-14",
+        "arFt": 450000,
+        "kepek": [
+            "https://nitslaszlo.github.io/static/hahu/41a.jpg",
+            "https://nitslaszlo.github.io/static/hahu/41b.jpg"
+        ]
+    },
+    {
+        "_id": 42,
+        "kategoria": 5,
+        "cim": "Cube Acid Hybrid One 500 29 MTB e-bike kerékpár",
+        "evjarat": "2022",
+        "kmAllas": 3519,
+        "szin": "Fekete",
+        "uzemanyag": "Elektromos",
+        "hengerurtartalom": -1,
+        "teljesitmenyLe": 0.335,
+        "serulesmentes": true,
+        "leiras": "Eladó a képen látható nagyon megkímélt állapotú Cube Acid Hybrid One 500 29 MTB e-bike. A kerékpár 2022 novemberében teljes motor karbantartáson és fékbetét cserén esett át így az ebike tökéletesen üzemkész (a télen nem volt használva). Az ebikhoz egy 500 Wh akkumulátor tartozik amivel terheléstől függően akár 100 km táv is megtehető egy feltöltéssel. A kerékpárhoz minden tartozék megvan (kulcs, töltő, használati utasítás).",
+        "hirdetesDatuma": "2023-04-14",
+        "arFt": 590000,
+        "kepek": [
+            "https://nitslaszlo.github.io/static/hahu/42a.jpg"
+        ]
+    },
+    {
+        "_id": 43,
+        "kategoria": 5,
+        "cim": "KTM Machina Race Bosch CX motoros e-bike kerékpár",
+        "evjarat": "2021",
+        "kmAllas": 1359,
+        "szin": "Fekete turbó narancs csíkokkal",
+        "uzemanyag": "Elektromos",
+        "hengerurtartalom": -1,
+        "teljesitmenyLe": 0.335,
+        "serulesmentes": true,
+        "leiras": "KTM Machina Race Bosch CX motoros e-bike kerékpár. 1359 km-t futott összesen. Powerpack 500-as akku. 2db. eredeti kulccsal. Nyeregcső magassága a kormányról állítható.",
+        "hirdetesDatuma": "2023-05-13",
+        "arFt": 795000,
+        "kepek": [
+            "https://nitslaszlo.github.io/static/hahu/43a.jpg"
+        ]
+    },
+    {
+        "_id": 44,
+        "kategoria": 5,
+        "cim": "Specialized Turbo Levo FSR ebike e-bike elektromos kerékpár",
+        "evjarat": "2022",
+        "kmAllas": 2170,
+        "szin": "Piros",
+        "uzemanyag": "Elektromos",
+        "hengerurtartalom": -1,
+        "teljesitmenyLe": 1,
+        "serulesmentes": true,
+        "leiras": "Vadonat új akkumulátorral, garanciális, 1 töltéses. 90Nm Brose motorral, L-es vázméret, 29 kerékméret, gyönyörű állapot, hátul Fox, elöl Rockshox teleszkóp, 4 dugattyús hidraulikus Sram tárcsafék 11 sebességes sram váltórendszer., költségmentes állapot, a kerékpárt csak használni kell. A motor hangtalan, minden tökéletesen működik. 25km/h felett is hajt. 2170km van a kerékpárban.",
+        "hirdetesDatuma": "2023-06-10",
+        "arFt": 1120000,
+        "kepek": [
+            "https://nitslaszlo.github.io/static/hahu/44a.jpg"
+        ]
+    }
+]
